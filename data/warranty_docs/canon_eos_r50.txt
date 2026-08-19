@@ -1,0 +1,32 @@
+Product ID: P007
+Brand: Canon
+Product: Camera
+Model: EOS R50
+
+Warranty Duration:
+2 years from the date of purchase.
+
+Covered Issues:
+- Image sensor failure caused by a manufacturing defect
+- Internal electronic failure
+- Shutter mechanism failure caused by a manufacturing defect
+- Display failure caused by a manufacturing defect
+- Other internal hardware defects under normal usage
+
+Not Covered:
+- Lens damage caused by dropping
+- Physical damage to the camera body
+- Water or liquid damage
+- Damage caused by unauthorized repairs
+- Damage caused by misuse
+- Scratches and cosmetic damage
+- Damage caused by incompatible accessories
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the camera model, purchase information,
+description of the problem, and relevant images of the camera.

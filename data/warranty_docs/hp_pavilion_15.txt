@@ -1,0 +1,34 @@
+Product ID: P004
+Brand: HP
+Product: Laptop
+Model: Pavilion 15
+
+Warranty Duration:
+1 year from the date of purchase.
+
+Covered Issues:
+- Motherboard failure caused by a manufacturing defect
+- Charging system failure
+- Keyboard hardware failure
+- Touchpad hardware failure
+- Display failure caused by a manufacturing defect
+- Internal hardware defects under normal usage
+
+Not Covered:
+- Cracked screen caused by dropping the laptop
+- Liquid damage
+- Accidental physical damage
+- Damage caused by misuse
+- Unauthorized repairs
+- Unauthorized hardware modifications
+- Cosmetic damage
+- Normal wear and tear
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the product model, purchase information,
+description of the problem, and relevant images.

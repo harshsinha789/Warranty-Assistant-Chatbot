@@ -1,0 +1,11 @@
+product_id,brand,product_name,model,warranty_years
+P001,Samsung,Washing Machine,WW80T504DAN,2
+P002,LG,Refrigerator,GL-S257JPZX,2
+P003,Dell,Laptop,Inspiron 15 3530,1
+P004,HP,Laptop,Pavilion 15,1
+P005,Sony,Television,Bravia X75K,2
+P006,Apple,Smartphone,iPhone 15,1
+P007,Canon,Camera,EOS R50,2
+P008,Bosch,Dishwasher,SMS66GI01I,2
+P009,Philips,Air Fryer,HD9252,2
+P010,JBL,Bluetooth Speaker,Flip 6,1

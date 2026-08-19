@@ -1,0 +1,32 @@
+Product ID: P008
+Brand: Bosch
+Product: Dishwasher
+Model: SMS66GI01I
+
+Warranty Duration:
+2 years from the date of purchase.
+
+Covered Issues:
+- Motor failure caused by a manufacturing defect
+- Water pump failure
+- Control board failure
+- Internal electrical component failure
+- Manufacturing defects affecting normal operation
+
+Not Covered:
+- Damage caused by incorrect installation
+- Physical damage
+- Damage caused by misuse
+- Damage caused by unauthorized repair
+- Damage caused by unsuitable cleaning products
+- Cosmetic scratches and dents
+- Normal wear and tear
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the dishwasher model, purchase information,
+description of the problem, and relevant images.

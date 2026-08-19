@@ -1,0 +1,32 @@
+Product ID: P001
+Brand: Samsung
+Product: Washing Machine
+Model: WW80T504DAN
+
+Warranty Duration:
+2 years from the date of purchase.
+
+Covered Issues:
+- Motor failure caused by a manufacturing defect
+- Control board failure
+- Electrical component failure
+- Water pump failure caused by a manufacturing defect
+- Other internal hardware defects under normal usage
+
+Not Covered:
+- Physical damage to the washing machine
+- Damage caused by incorrect installation
+- Damage caused by misuse or overloading
+- Damage caused by unauthorized repairs
+- Cosmetic scratches and dents
+- Damage caused by external water leakage
+- Normal wear and tear
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the product model, purchase information,
+description of the problem, and relevant images of the washing machine.

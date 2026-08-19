@@ -1,0 +1,33 @@
+Product ID: P006
+Brand: Apple
+Product: Smartphone
+Model: iPhone 15
+
+Warranty Duration:
+1 year from the date of purchase.
+
+Covered Issues:
+- Manufacturing defects
+- Internal hardware failure
+- Power-related hardware failure caused by a manufacturing defect
+- Display malfunction caused by a manufacturing defect
+- Camera hardware malfunction caused by a manufacturing defect
+
+Not Covered:
+- Cracked or broken screen caused by accidental damage
+- Damage caused by dropping the phone
+- Liquid damage
+- Unauthorized repairs
+- Unauthorized modifications
+- Cosmetic damage
+- Normal battery degradation
+- Damage caused by misuse
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the product model, purchase information,
+description of the problem, and relevant images of the device.

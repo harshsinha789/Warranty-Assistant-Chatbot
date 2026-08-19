@@ -1,0 +1,33 @@
+Product ID: P002
+Brand: LG
+Product: Refrigerator
+Model: GL-S257JPZX
+
+Warranty Duration:
+2 years from the date of purchase.
+
+Covered Issues:
+- Compressor failure caused by a manufacturing defect
+- Cooling system failure
+- Control board failure
+- Internal electrical component failure
+- Manufacturing defects affecting normal operation
+
+Not Covered:
+- Physical damage
+- Damage caused by incorrect installation
+- Damage caused by improper voltage supply
+- Damage caused by unauthorized repair
+- Damage caused by misuse
+- Food spoilage resulting from refrigerator failure
+- Cosmetic damage
+- Normal wear and tear
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the model number, purchase information,
+description of the problem, and relevant images.

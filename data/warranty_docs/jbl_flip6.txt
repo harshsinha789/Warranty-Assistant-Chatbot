@@ -1,0 +1,32 @@
+Product ID: P010
+Brand: JBL
+Product: Bluetooth Speaker
+Model: Flip 6
+
+Warranty Duration:
+1 year from the date of purchase.
+
+Covered Issues:
+- Speaker driver failure caused by a manufacturing defect
+- Charging system failure
+- Power system failure caused by a manufacturing defect
+- Bluetooth hardware failure
+- Internal electronic defects under normal usage
+
+Not Covered:
+- Physical damage caused by dropping the speaker
+- Damage caused by unauthorized repair
+- Damage caused by misuse
+- Cosmetic scratches and dents
+- Damage caused by modifications
+- Damage caused by exposure to conditions beyond the product's specified protection
+- Normal wear and tear
+
+Warranty Requirements:
+- Product must be within the warranty period.
+- Customer must provide a valid purchase date.
+- Product model must match the warranty record.
+
+Claim Procedure:
+The customer should provide the product model, purchase information,
+description of the problem, and relevant images.
