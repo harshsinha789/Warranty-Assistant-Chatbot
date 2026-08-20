@@ -67,3 +67,6 @@ Warranty Assessment
  ├── Purchase date
  ├── Expiry date
  └── Coverage explanation
+
+## Images of the working Application
+![imagealt]()
