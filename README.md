@@ -69,4 +69,16 @@ Warranty Assessment
  └── Coverage explanation
 
 ## Images of the working Application
-![imagealt]()
+
+1. The problems are covered under warranty
+![imagealt](https://github.com/harshsinha789/Warranty-Assistant-Chatbot/blob/0ff867fc745a54e9c13ad9e10aaf826f98022458/Screenshot%202026-08-19%20193755.png)
+![imagealt](https://github.com/harshsinha789/Warranty-Assistant-Chatbot/blob/0ff867fc745a54e9c13ad9e10aaf826f98022458/Screenshot%202026-08-19%20193816.png)
+
+2. The problems are not covered under warranty
+![imagealt](https://github.com/harshsinha789/Warranty-Assistant-Chatbot/blob/0ff867fc745a54e9c13ad9e10aaf826f98022458/Screenshot%202026-08-19%20194302.png)
+![imagealt](https://github.com/harshsinha789/Warranty-Assistant-Chatbot/blob/0ff867fc745a54e9c13ad9e10aaf826f98022458/Screenshot%202026-08-19%20194324.png)
+
+3. Warranty has expired
+![imagealt](https://github.com/harshsinha789/Warranty-Assistant-Chatbot/blob/0ff867fc745a54e9c13ad9e10aaf826f98022458/Screenshot%202026-08-19%20194411.png)
+![imagealt](https://github.com/harshsinha789/Warranty-Assistant-Chatbot/blob/0ff867fc745a54e9c13ad9e10aaf826f98022458/Screenshot%202026-08-19%20194427.png)
+
